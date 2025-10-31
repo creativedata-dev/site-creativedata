@@ -1,0 +1,19 @@
+/*
+Theme Name: Site Creativedata
+Theme URI: http://creativedata.com.br/
+Author: Ervin
+Author URI: http://creativedata.com.br/
+Description: Tema customizado para site-creativedata.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: site-creativedata
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffee00;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
